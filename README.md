@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Yadnesh Bhanushali</h1>
 <h3 align="center">I'm a third year Aritifical Intelligence & Data science student passionate about learning and exploring deep into the sea of Machine Learning and Deep Learning. <br> I enjoy brainstorming on new challenges of different domains and constantly try to be better.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/aocattleya/NightSky-Background">
