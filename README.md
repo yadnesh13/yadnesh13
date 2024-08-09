@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/yadnesh13/Machine-Learning-Projects)
 
-- 🌱 I’m currently learning **Quantum Machine Learning**
+- 🌱 I’m currently learning **Advance Machine Learning Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yadnesh13](https://github.com/yadnesh13)
 
